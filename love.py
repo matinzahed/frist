@@ -1,2 +1,2 @@
-print(" i love you ehsan"
+print(" i hateyou ehsan"
 )
